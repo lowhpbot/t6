@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.Random;
 
-public class MatrixMultiplication {
+public class Main {
     public static void main(String[] args) {
         try {
             int n = Integer.parseInt(JOptionPane.showInputDialog("Введите размерность матриц (n):"));
